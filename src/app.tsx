@@ -1,5 +1,9 @@
+import { Button } from "@/components/ui/button";
+import "@fontsource/inter";
+import "./main.css";
+
 function App() {
-  return <p>Hello world</p>;
+  return <Button>Success</Button>;
 }
 
 export default App;
